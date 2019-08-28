@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( " Worl333333jjjjjjjjjjjjjjjjjj3d!" );
+        System.out.println( "!" );
         System.out.println();
     }
 }
